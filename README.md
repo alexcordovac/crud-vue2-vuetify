@@ -1,6 +1,14 @@
-# crudestudiantes
+# CRUD of students management with login
+
+## Libraries used
+```
+Vuetify
+VueRouter
+Vuex
+```
 
 ## Project setup
+
 ```
 npm install
 ```
