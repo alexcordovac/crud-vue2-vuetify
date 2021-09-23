@@ -4,6 +4,8 @@
 ```
 This is a system for student managament, it takes advantage of Vue 2 and Vetify to create a beutiful UI.
 It also uses a RestAPI request in order to fetch the data.
+
+Screenshots of this Crud's views were placed on "images" folder
 ```
 
 ## Libraries used
